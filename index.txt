@@ -62,16 +62,11 @@ A [Quick Start Guide](http://fletcherpenney.net/multimarkdown/users_guide/quicks
 
 ## License ##
 
-GPL
+GPL Version 2 (license included in download)
 
 ## Authors ##
 
 Fletcher T. Penney (fletcher@fletcherpenney.net)
-
-## Contact ##
-
-Fletcher T. Penney (fletcher@fletcherpenney.net)
-
 
 ## Download ##
 
