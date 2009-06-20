@@ -54,7 +54,7 @@ pre {
   Expanded perl version of John Gruber's original Markdown
 </div>
 
-Please see the project page <http://fletcherpenney.net/multimarkdown/> for further information and installation instructions.
+Please see the [main project page](http://fletcherpenney.net/multimarkdown/) for further information and installation instructions.
 
 ## License ##
 
