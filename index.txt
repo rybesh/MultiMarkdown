@@ -54,7 +54,11 @@ pre {
   Expanded perl version of John Gruber's original Markdown
 </div>
 
-Please see the [main MultiMarkdown page](http://fletcherpenney.net/multimarkdown/) for further information and installation instructions.
+Please see the [main MultiMarkdown page](http://fletcherpenney.net/multimarkdown/) for further information.
+
+A [Quick Start Guide](http://fletcherpenney.net/multimarkdown/users_guide/quickstart_guide_to_multimarkd/)
+
+
 
 ## License ##
 
