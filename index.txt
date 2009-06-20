@@ -1,0 +1,89 @@
+Author: Fletcher T. Penney
+Title: fletcher/MultiMarkdown @ GitHub
+xhtml header:
+<style type="text/css">
+	body {
+	margin-top: 1.0em;
+	background-color: white;
+	color: #000000;
+	font: 14px/1.5em Georgia, Palatino, "Palatino Linotype", Times, "Times New Roman";
+}
+#container {
+  margin: 0 auto;
+  width: 700px;
+}
+	h1 { font-size: 3.8em; margin-bottom: 3px; }
+	h1 .small { font-size: 0.4em; }
+	h1 a { text-decoration: none }
+	h2 { font-size: 1.5em; }
+h3 { text-align: center; }
+a,a:visited {
+	color:#222;
+}
+	a:hover {
+	color:#fff;
+	background:#444;
+}
+.description { font-size: 1.2em; margin-bottom: 30px; margin-top: 30px; font-style: italic;}
+.download { float: right; }
+	pre { background: #000; color: #fff; padding: 15px;}
+hr { border: 0; width: 80%; border-bottom: 1px solid #aaa}
+.footer { text-align:center; padding-top:30px; font-style: italic; }
+pre {
+	border: #888 1px solid;
+	background-color:#CCC;
+}
+</style>
+
+
+<a href="http://github.com/fletcher/MultiMarkdown"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" /></a>
+
+<div id="container" markdown="1">
+
+<div class="download" markdown ="1">
+  <a href="http://github.com/fletcher/MultiMarkdown/zipball/master">
+    <img border="0" width="90" src="http://github.com/images/modules/download/zip.png"/></a>
+  <a href="http://github.com/fletcher/MultiMarkdown/tarball/master">
+    <img border="0" width="90" src="http://github.com/images/modules/download/tar.png"/></a>
+</div>
+  
+<h1><a href="http://github.com/fletcher/MultiMarkdown">MultiMarkdown</a> 
+  <span class="small">by <a href="http://github.com/fletcher">fletcher</a></span></h1>
+
+<div class="description">
+  Expanded perl version of John Gruber's original Markdown
+</div>
+
+Please see the project page <http://fletcherpenney.net/multimarkdown/> for further information and installation instructions.
+
+## License ##
+
+GPL
+
+## Authors ##
+
+Fletcher T. Penney (fletcher@fletcherpenney.net)
+
+## Contact ##
+
+Fletcher T. Penney (fletcher@fletcherpenney.net)
+
+
+## Download ##
+
+You can download this project in either
+  <a href="http://github.com/fletcher/MultiMarkdown/zipball/master">zip</a> or
+  <a href="http://github.com/fletcher/MultiMarkdown/tarball/master">tar</a> 
+formats.
+
+You can also clone the project with <a href="http://git-scm.com">Git</a> by running:
+
+	$ git clone git://github.com/fletcher/MultiMarkdown
+
+
+  
+<div class="footer">
+  get the source code on GitHub : <a href="http://github.com/fletcher/MultiMarkdown">fletcher/MultiMarkdown</a>
+</div>
+
+</div>
