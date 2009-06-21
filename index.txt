@@ -56,7 +56,7 @@ pre {
 
 Please see the [main MultiMarkdown page](http://fletcherpenney.net/multimarkdown/) for further information.
 
-A [Quick Start Guide](http://fletcherpenney.net/multimarkdown/users_guide/quickstart_guide_to_multimarkd/) contains instructions on getting up and running easily.
+The [Quick Start Guide](http://fletcherpenney.net/multimarkdown/users_guide/quickstart_guide_to_multimarkd/) contains instructions on getting up and running easily.
 
 
 
