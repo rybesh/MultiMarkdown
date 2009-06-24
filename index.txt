@@ -64,7 +64,7 @@ The [Quick Start Guide](http://fletcherpenney.net/multimarkdown/users_guide/quic
 
 GPL Version 2 (license included in download)
 
-## Authors ##
+## Author ##
 
 Fletcher T. Penney (fletcher@fletcherpenney.net)
 
