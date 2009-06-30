@@ -13,9 +13,9 @@ xhtml header:
   width: 700px;
 }
 	h1 { font-size: 3.8em; margin-bottom: 3px; }
-	h1 .small { font-size: 0.4em; }
 	h1 a { text-decoration: none }
 	h2 { font-size: 1.5em; }
+	h2 a { text-decoration: none }
 h3 { text-align: center; }
 a,a:visited {
 	color:#222;
@@ -47,8 +47,10 @@ pre {
     <img border="0" width="90" src="http://github.com/images/modules/download/tar.png"/></a>
 </div>
   
-<h1><a href="http://github.com/fletcher/MultiMarkdown">MultiMarkdown</a> 
-  <span class="small">by <a href="http://github.com/fletcher">Fletcher T. Penney</a></span></h1>
+# <a href="http://github.com/fletcher/MultiMarkdown">MultiMarkdown</a> #
+
+
+## by <a href="http://github.com/fletcher">Fletcher T. Penney</a> ##
 
 <div class="description">
   Expanded perl version of John Gruber's original Markdown
