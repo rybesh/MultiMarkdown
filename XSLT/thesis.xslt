@@ -138,7 +138,7 @@
 %
 %\pagebreak
 
-\section*{Acknowledgments}
+\chapter*{Acknowledgments}
 \addcontentsline{toc}{section}{Acknowledgments}
 \label{acknowledgments}
 \input{acknow}
