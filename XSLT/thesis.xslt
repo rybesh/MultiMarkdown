@@ -35,7 +35,7 @@
 
 
   <xsl:template name="latex-document-class">
-    <xsl:text>\documentclass[12pt]{thesis}</xsl:text>
+    <xsl:text>\documentclass[12pt,openany]{thesis}</xsl:text>
   </xsl:template>
 
   <xsl:template name="latex-paper-size">
@@ -66,7 +66,7 @@
 \setsansfont{Helvetica Neue LT Pro}
 \setmonofont{Monaco}
 \newfontface\japanese{Hiragino Mincho Pro}
-\newfontface\chapterheadfont{Garamond Premier Pro Semibold Subhead}
+\newfontface\semibold{Garamond Premier Pro Semibold Subhead}
 
 </xsl:text>
   </xsl:template>
@@ -93,8 +93,7 @@
 \pagenumbering{roman}
 \pagestyle{empty}
 
-\input{approval}
-
+%\input{approval}
 \input{title}
 \input{copyright}
 
@@ -132,12 +131,12 @@
 
 \pagebreak
 
-\section*{Preface}
-\addcontentsline{toc}{section}{Preface}
-\label{preface}
-\input{preface}
-
-\pagebreak
+%\section*{Preface}
+%\addcontentsline{toc}{section}{Preface}
+%\label{preface}
+%\input{preface}
+%
+%\pagebreak
 
 \section*{Acknowledgments}
 \addcontentsline{toc}{section}{Acknowledgments}
