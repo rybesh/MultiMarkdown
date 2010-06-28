@@ -635,6 +635,11 @@
 	<!-- ordered list -->
 	<xsl:template match="html:ol">
 		<xsl:text>\begin{enumerate}</xsl:text>
+                <xsl:if test="@start">
+                  <xsl:text>\setcounter{enumi}{</xsl:text>
+                  <xsl:value-of select="@start"/>
+                  <xsl:text>}</xsl:text>
+                </xsl:if>
 		<xsl:value-of select="$newline"/>
 		<xsl:value-of select="$newline"/>
 		<xsl:apply-templates select="*"/>
